@@ -1,0 +1,46 @@
+.sidebar{
+    flex: 3;
+    
+}
+ .sidebarItem{
+    border: 3px solid #fff;
+    padding-top: 10px;
+    border-radius: 20px;
+    padding-top: 10px;
+    
+}
+ .sidebarItem .card{
+    /* padding: 5px; */
+    position:relative;
+    background: #2BC53F;
+    border-radius: 10px;
+    
+   
+}
+ .sidebarItem h1{
+    font-family: 'Comfortaa', cursive;
+    color: #fff;
+   font-size: 25px;
+   text-align: center;
+   font-weight: 700;
+    
+}
+.sidebarItem .card-text{
+    position: relative;
+    margin-left: 90px;
+    color: #fff;
+    font-size: 15px;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    
+}
+ .sidebarItem .card-text i{
+color: yellow;
+}
+.sidebarItem img{
+    position: absolute;
+    width: 85px;
+    height: 85px;
+    margin-top: 10px;
+    align-items: center;
+}
+
